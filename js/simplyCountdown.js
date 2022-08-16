@@ -208,10 +208,10 @@
                     
                     
                     
-                    days = 00;
-                    hours = 00;
-                    minutes = 00;
-                    seconds = 00;
+                    days = 5;
+                    hours = 12;
+                    minutes = 13;
+                    seconds = 11;
                     window.clearInterval(interval);
                     parameters.onEnd();
                 }
